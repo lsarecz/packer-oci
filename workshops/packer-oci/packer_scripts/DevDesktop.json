@@ -6,5 +6,5 @@
       "my.region": "eu-frankfurt-1",
       "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaac7hblcnyhjixj7ezwmc4eljqdjppjr6ig4frzsohhn4ktmta6j4q",
       "my.subnet_ocid": "ocid1.subnet.oc1.eu-frankfurt-1.aaaaaaaaqtkpkm6t7fg22a4ouqhu5xrfg4acvbipuskslye6acvxrbfcngbq",
-      "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
+      "my.base_image_ocid": "ocid1.image.oc1.eu-frankfurt-1.aaaaaaaaxczipclugofaltvodekopeto6xpbq7e7dk4m7so2zk3qi7nsvkyq"
     }
